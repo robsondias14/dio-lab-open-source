@@ -22,21 +22,14 @@ Trabalho com tecnologia a 20 anos como administrador de infraestrutura de redes 
 <div style="display: flex">
 <br>
 
-![AWS SERVICES]
+[AWS SERVICES]
 
 
 </div>
 
 <div  align="center">
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=01VitorHugo&layout=compact&langs_count=7&theme=react)
 
-</div>
- 
-<h2>Sistema operacional</h2>
-<br>
-
-![Windows](https://img.shields.io/badge/Windows-000?style=for-the-badge&logo=windows&logoColor=2CA5E0)
 
 <h2>Conecte-se comigo</h2>
 <br>
