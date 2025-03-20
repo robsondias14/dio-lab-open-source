@@ -22,7 +22,7 @@ Trabalho com tecnologia a 20 anos como administrador de infraestrutura de redes 
 <div style="display: flex">
 <br>
 
-![AWS SERCIVES](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript&logoColor=yellow)
+![AWS SERVICES]
 
 
 </div>
